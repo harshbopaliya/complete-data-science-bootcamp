@@ -1,13 +1,14 @@
 # 🧠 Complete Data Science Bootcamp
 
 This repository contains all the code, projects, and notes completed while going through **Krish Naik's Udemy course**:  
-🎓 *Complete Data Science, Machine Learning, Deep Learning, and NLP Bootcamp*
+🎓 _Complete Data Science, Machine Learning, Deep Learning, and NLP Bootcamp_
 
 ---
 
 ## 📚 Course Overview
 
 This bootcamp covers the following topics:
+
 - Python for Data Science
 - Exploratory Data Analysis (EDA)
 - Statistics & Probability
@@ -42,7 +43,7 @@ complete-data-science-bootcamp/
 ## 🏆 Certificate
 
 I completed this course on Udemy under instructor **Krish Naik**.
-📜 *Certificate of Completion is available upon request.*
+📜 _Certificate of Completion is available upon request._
 
 ---
 
@@ -54,9 +55,9 @@ I'm passionate about data science and committed to becoming a full-stack ML engi
 
 ## 📬 Connect
 
-- GitHub: [YourUsername](https://github.com/YourUsername)
-- LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourprofile)
-- Twitter: [@YourHandle](https://twitter.com/yourhandle)
+- GitHub: [YourUsername](https://github.com/harshbopaliya)
+- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/harshbopaliya2003/)
+- Twitter: [@YourHandle](https://twitter.com/BopaliyaHarsh)
 
 ---
 
